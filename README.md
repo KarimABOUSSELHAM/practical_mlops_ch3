@@ -1,10 +1,8 @@
-This repository exposes a solution to both the exercises n° 3 and 4 of the third chapter of Gift, N., & Deza, A. (2021). [*Practical MLOps Operationalizing Machine Learning Models*](https://www.oreilly.com/library/view/practical-mlops/9781098103002/).   
-O'Reilly Media.  
+This repository exposes a solution to both the exercises n° 3 and 4 of the third chapter of Gift, N., & Deza, A. (2021). [*Practical MLOps Operationalizing Machine Learning Models*](https://www.oreilly.com/library/view/practical-mlops/9781098103002/). O'Reilly Media.  
 
 # Exercise n° 3 statment  
 
-`*Create a new container image, based on the Flask example, that serves a model and that provides examples on a GET request to interact with the model. Create another endpoint that provides  
-useful metadata about the model.*`
+*`Create a new container image, based on the Flask example, that serves a model and that provides examples on a GET request to interact with the model. Create another endpoint that provides useful metadata about the model.`*
 
 # Answer steps  
 
